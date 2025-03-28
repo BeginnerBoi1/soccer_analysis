@@ -1,8 +1,10 @@
-# Header 1
-## Header 2
-### Header 3
-#### Header 4
-##### Header 5
+### Wassup!
 
-**Bold text**
-*Italic text*
+Hey, I'm **Jan Randolph Emmanuel L. Santos** and this is my first ever github *repository*
+These are the link of my accounts if you're interested!
+
+***Facebook***
+[Link](https://www.facebook.com/SantosRaandoolph/)
+
+***Youtube***
+[link](https://www.youtube.com/@GunLanceEnjoyer)
