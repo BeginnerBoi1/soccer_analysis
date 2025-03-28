@@ -4,5 +4,5 @@
 #### Header 4
 ##### Header 5
 
-** Bold text **
-* Italic text *
+**Bold text**
+*Italic text*
